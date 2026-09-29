@@ -6,7 +6,7 @@
 
 Inkwell **identifies and classifies clauses** in a privacy policy against a fixed set of categories (data collection, sharing, retention, deletion rights, and so on). Every category assignment is tied to the exact clause that produced it — never a generated summary or paraphrase — and where a category has no matching clause anywhere in the policy, Inkwell reports that explicitly instead of guessing. There is no generative model and no LLM API anywhere in the pipeline.
 
-**Quick links:** [Weekly reports](reports/) · [User evidence](evidence/) · [Project board] · [Demo]
+**Quick links:** [Weekly reports](reports/) · [User evidence](evidence/) · 
 
 ---
 
