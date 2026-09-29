@@ -1,0 +1,404 @@
+set,file,bytes,visible_words,n_tags,n_headings,n_units,found_exact,found_loose,crawl_link,domain_in_html,title
+db,1,205682,5175,726,7,139,0.9496402877697842,0.9712230215827338,http://lead411.com/privacy-policy/,True,Lead411 Privacy Policy
+db,2,109976,3161,856,69,54,0.9259259259259259,0.9259259259259259,https://blackbaud.com/company/privacy-policy/blackbaud-id,True,Privacy Policy Blackbaud Identity | Blackbaud
+db,3,31083,1351,225,16,36,0.9722222222222222,0.9722222222222222,https://statlistics.com/privacy-policy/,True,Privacy Policy - Statlistics
+db,4,55704,2421,256,2,91,0.989010989010989,0.989010989010989,https://www.spydialer.com/privacy.aspx,True,Privacy Policy | Spy Dialer
+db,5,261463,16780,2772,54,196,0.6020408163265306,0.7755102040816326,http://vdx.tv/policies,True,Privacy - VDX.TV
+db,6,23476,2475,223,10,60,0.8833333333333333,1.0,http://accucomcorp.com/privacy,False,Privacy Policy - Infopay.com
+db,7,597939,4139,1444,46,59,0.8135593220338984,1.0,https://www.acxiom.com/about-us/privacy/privacy-policy-www-acxiom-com/,True,Privacy Policy www.acxiom.com
+db,8,193340,3475,2071,1,41,0.9512195121951219,1.0,https://www.anchorcomputer.com/index.php/privacy-policy/,True,PRIVACY POLICY -Direct Marketing Association Members - Anchor Computer
+db,9,67423,2222,554,0,41,0.7804878048780488,1.0,https://www.sms-inc.com/privacy-policy-ca/,True,SMS INC PRIVACY POLICY (CA) - SMS-INC
+db,10,85313,717,390,5,23,1.0,1.0,https://www.sourceitmarketing.com/privacy-policy/,True,Privacy Policy - SOURCEit
+db,11,487466,22125,3343,96,140,0.75,1.0,https://www.spglobal.com/en/privacy/privacy-policy-english,True,Corporate Privacy Policy | S&P Global
+db,12,114496,1405,571,1,36,1.0,1.0,http://www.integratedmedicaldata.com/privacy-policy/,True,Privacy Policy - Medical Marketing & Healthcare Leads | iMD
+db,13,49242,2584,388,9,151,0.2980132450331126,0.3443708609271523,http://www.swordfish.ai/policy-ccpa,True,Swordfish: CCPA Notice
+db,14,91933,479,511,7,16,0.5625,0.5625,https://webbula.com/?page_id=14347,True,Page not found - Webbula
+db,15,177501,6621,1087,36,91,0.7252747252747253,1.0,https://www.arity.com/privacy/,True,Privacy Statement | Arity
+db,16,173403,6361,1169,11,107,0.822429906542056,1.0,https://www.compactlists.com/privacy-policy/,True,Privacy Policy – Compact
+db,17,223408,17127,1548,49,118,0.8135593220338984,1.0,https://www.edvisors.com/terms-privacy-disclaimer/,True,"Terms of Use, Privacy Policy, and Disclaimer | Edvisors"
+db,18,120927,2821,620,2,75,0.7466666666666667,1.0,https://www.limeleads.com/privacy-policy/,True,Privacy Policy | LimeLeads
+db,19,630081,17380,1762,76,262,0.7404580152671756,1.0,https://www.nextroll.com/privacy#website-13,True,NextRoll - Privacy Policy
+db,20,205437,9603,974,49,111,0.5045045045045045,0.990990990990991,https://www.taboola.com/policies/privacy-policy#user-choices-and-opting-out,True,Privacy Policy | Taboola.com
+db,21,197373,3116,873,5,43,0.9767441860465116,1.0,https://www.telephonelists.biz/privacy-notice-for-residents-of-california/,True,Privacy Notice for Residents of California - Business Residential Tele
+db,22,96174,5543,783,17,53,0.6792452830188679,1.0,https://www.truedata.co/privacy-policy/,True,Privacy | TrueData
+db,23,285325,11657,1495,82,101,0.7722772277227723,0.9900990099009901,http://www.anteriad.com/privacy-policy/,True,Privacy Policy | Anteriad
+db,24,134286,6283,1150,14,67,0.8059701492537313,1.0,http://www.apollointeractive.com/privacy-policy.php,True,Performance Marketing Agency Los Angeles | Apollo Interactive
+db,25,87234,2272,481,7,37,0.8648648648648649,1.0,http://WWW.BELARDIWONG.COM/privacy-policy,True,Privacy Policy - Belardi Wong
+db,26,75861,3627,382,3,36,0.9444444444444444,1.0,http://www.CompleteMailingLists.com/privacy-policy,True,Privacy Policy | Your one source for Direct Marketing Business and Con
+db,27,141064,3332,1315,17,23,0.6956521739130435,1.0,http://www.experian.com/privacy/index.html,True,Privacy Policy at Experian.com
+db,28,135868,3349,522,19,46,0.9565217391304348,1.0,http://www.pacificeast.com/privacy-policy/,True,Privacy Policy - PacificEast
+db,29,189099,6191,1391,22,125,0.688,1.0,https://ekata.com/privacy-policy/,True,Privacy Policy - Ekata
+db,30,29859,547,144,1,11,0.9090909090909091,1.0,https://privacy.sovrn.com/opt-out,True,Privacy Center
+db,31,144008,2400,407,14,37,0.6756756756756757,0.972972972972973,https://www.acbj.com/careers/ccpanotice,True,ACBJ - CCPA Notice
+db,32,314473,6023,2174,43,76,0.7368421052631579,1.0,https://www.bdo.com/legal-privacy/legal/privacy-policy ,True,Privacy Policy | BDO
+db,33,253445,3169,1192,17,52,0.9423076923076923,1.0,https://www.brandwatch.com/legal/user-privacy-policy/,True,User privacy statement |  Brandwatch
+db,34,119588,882,819,12,33,1.0,1.0,https://www.digitalsegment.com/about/california-privacy-policy/,True,California Privacy Policy
+db,35,97996,5650,768,69,56,0.9464285714285714,1.0,https://www.forddirect.com/privacy,True,Privacy | FordDirect
+db,36,62536,3919,314,3,86,0.7558139534883721,1.0,https://www.hybridtheory.com/privacy-notice/,True,Hybrid Theory | Webite Privacy Policy |
+db,37,141436,2603,325,1,75,0.013333333333333334,0.013333333333333334,https://www.aspire-north.com/data-services-and-website-privacy-policy.html,True,Data Services and Website Privacy Policy - Aspire North
+db,38,168007,3146,608,23,48,0.8958333333333334,1.0,https://www.liveintent.com/privacy-policy,True,Website Privacy Policy
+db,39,379870,15465,2879,70,82,0.6951219512195121,1.0,https://www.lotame.com/about-lotame/privacy/,True,Privacy Center - Lotame
+db,40,52076,3647,457,15,29,0.7586206896551724,1.0,https://www.nativo.com/privacy-policy,True,Website Privacy Policy — Nativo Native Platform
+db,41,312821,2990,608,14,64,0.703125,1.0,https://www.reklaimyours.com/privacy-policy/#page,True,Privacy Policy- What We Do — Reklaim
+db,42,82132,1798,371,17,48,1.0,1.0,https://www.rocadvertising.com/privacy-policy/,True,Privacy Policy - ROC Advertising
+db,43,377047,6632,1042,21,118,0.8813559322033898,1.0,https://www.stirista.com/privacy-policy/,True,Privacy Policy - Stirista
+db,44,79184,1175,500,28,11,0.7272727272727273,1.0,https://www.tapad.com/privacy,True,Tapad | Consumer Privacy
+db,45,282473,8297,1649,38,85,0.5176470588235295,1.0,https://www.techtarget.com/privacy-policy/,True,Privacy Policy - TechTarget
+db,46,95766,3704,596,22,81,0.9259259259259259,1.0,http://therooftop.io/privacy-policy/,True,Privacy Policy - Rooftop Digital
+db,47,19571,2826,54,0,64,0.484375,0.484375,http://tymaxmedia.com/privacy.php,True,
+db,48,176645,6065,1048,4,47,0.9361702127659575,0.9787234042553191,http://www.360mediadirect.com/privacy-policy?hsLang=en,True,Privacy Policy – Sales Agent
+db,49,53867,668,469,2,27,0.18518518518518517,0.19230769230769232,http://www.experian.com/privacy/california-consumer-privacy-act.html,True,Privacy Policy at Experian.com
+db,50,179108,4897,1283,49,62,1.0,1.0,http://www.groundtruth.com/privacy-policy/,True,Privacy Policy - GroundTruth - GroundTruth
+db,51,152013,3729,677,25,42,0.8571428571428571,1.0,http://www.ididata.com/idis-privacy-statement/,True,Privacy Policy | Interactive Data
+db,52,826973,3788,779,6,35,0.7714285714285715,1.0,http://www.L2Political.com/l2-privacy-policy,True,L2 -Data | Privacy Policy
+db,53,69547,2027,540,6,44,0.9545454545454546,1.0,http://www.mchdata.com/about/privacy-policy,True,Privacy Policy - MCH Data
+db,54,268564,4667,1567,33,47,0.7872340425531915,0.8723404255319149,http://oncoreleads.com/california-privacy-rights/,True,Your California Privacy Rights - OnCore Leads
+db,55,147561,5236,998,17,84,0.8690476190476191,0.9880952380952381,https://cadent.tv/services-privacy-policy/,True,Services Privacy Policy | Cadent
+db,56,208708,4923,1370,28,64,0.578125,0.875,https://getrev.ai/privacy-policy/#compliance-and-protection,True,Privacy Policy - Rev
+db,57,61832,3456,604,59,53,0.6792452830188679,1.0,https://leadiq.com/legal/privacy-policy,True,LeadIQ - Privacy Policy
+db,58,421816,19026,2505,152,292,0.839041095890411,0.886986301369863,https://near.com/privacy-policy/,True,Privacy Policy - Near
+db,59,56625,4421,602,9,67,0.8059701492537313,1.0,https://sabio.inc/privacypolicy,True,Privacy Policy | Sabio Inc
+db,60,77718,4871,562,1,68,0.8676470588235294,0.9264705882352942,https://scrapingrobot.com/privacy-policy/,True,Privacy Policy | Scraping Robot
+db,61,218545,5637,964,19,55,0.8727272727272727,0.9090909090909091,https://smacomm.com/terms-conditions-privacy/,True,"Terms & Conditions, Privacy Policy – SMA Communications"
+db,62,122851,4445,687,6,34,0.5882352941176471,0.7941176470588235,https://videoamp.com/consumer-rights-under-ccpa/,True,Consumer Rights under CCPA - VideoAmp
+db,63,411762,5681,1810,17,62,0.7903225806451613,1.0,https://www.civisanalytics.com/privacy-policy/#cookie,True,Privacy Policy — Civis Analytics
+db,64,72481,5842,694,36,56,0.8928571428571429,0.9107142857142857,https://www.ip2location.com/privacy-policy,True,Privacy Policy
+db,65,470233,2756,622,4,48,0.9583333333333334,1.0,https://www.milestonemarketingsolutions.com/privacy-policy,True,Privacy Policy | Milestone
+db,66,142997,5384,805,20,108,0.7129629629629629,0.9722222222222222,https://www.mobilewalla.com/website-privacy,True,Website Privacy Policy - Legal Information | Mobilewalla
+db,67,75870,2822,525,14,26,0.8076923076923077,1.0,https://www.openx.com/privacy-center/privacy-policy/,True,Privacy Policy | OpenX
+db,68,1377998,3421,874,1,52,0.6730769230769231,0.8076923076923077,https://www.pbinfo.com/ca-privacy-policy/,True,Privacy Policy | California | PBI Research Services
+db,69,69489,861,303,9,24,1.0,1.0,https://www.realitydebtsolutions.com/ccpaprivacy/,True,California Privacy Policy Etc. – Reality Debt Solutions
+db,70,124847,4093,361,5,53,0.9433962264150944,1.0,http://www.datapartners.com/privacy-policy,True,Privacy Policy
+db,71,96099,2281,553,6,44,0.75,1.0,http://www.datonics.com/website-privacy-policy,True,Website Privacy Policy — Datonics
+db,72,180596,5956,1367,20,58,0.7068965517241379,0.9137931034482759,http://www.getemails.com/privacy-policy/,True,Privacy Policy - Retention.com
+db,73,98173,4999,733,3,60,0.7833333333333333,1.0,http://www.jdmlistservices.com/privacy-policy,True,Privacy Policy
+db,74,103929,4973,856,1,66,0.7727272727272727,1.0,http://www.jmr-media.com/privacy,True,"Privacy | JMR Media Consulting, Inc"
+db,75,166896,4134,889,18,78,0.9358974358974359,0.9358974358974359,http://www.peopledatalabs.com/privacy/privacy-policy,True,Privacy Policy | People Data Labs
+db,76,64389,4954,533,45,61,0.7049180327868853,0.8852459016393442,http://www.richmediallc.com/privacy-policy/,True,» Privacy Policy | Rich Media
+db,77,134202,5703,927,5,74,0.7297297297297297,0.8918918918918919,http://www.v12data.com/privacy-policy/,True,Privacy Policy | Porch Group Media
+db,78,90270,1268,607,12,23,0.9130434782608695,1.0,http://amplemarket.com/ccpa,True,Amplemarket - CCPA
+db,79,44425,3112,343,41,53,0.9811320754716981,1.0,http://decide.co/privacy,True,Decide Privacy Policy
+db,80,20366,1762,185,0,35,0.8,1.0,http://leadmemedia.com/CCPA/CCPA_notice.html,True,Lead Me Media
+db,81,138791,4465,727,2,60,0.9166666666666666,1.0,http://rampedup.io/privacy-policy-1,True,Privacy Policy
+db,82,307201,9897,1712,3,131,0.7480916030534351,0.8549618320610687,https://demandscience.com/privacy-policy-ccpa/,True,Privacy Policy - DemandScience
+db,83,262607,5342,1757,33,85,0.6705882352941176,0.7058823529411765,https://finthrive.com/privacy-notice-for-california-residents?,True,Privacy Notice | CA Residents
+db,84,66681,2963,612,19,50,0.9,1.0,https://grata.com/legal/privacy-policy,True,Privacy Policy | Grata
+db,85,78099,3674,362,1,37,0.8918918918918919,1.0,https://irys.us/privacy-policy,True,Privacy Policy — irys
+db,86,237998,6637,1033,63,70,0.7142857142857143,1.0,https://locatesmarter.com/privacy-policy/,True,Privacy Policy - Locate Smarter
+db,87,124962,1396,337,8,29,0.8620689655172413,1.0,https://permutive.com/your-california-privacy-rights/,True,Your California privacy rights | Permutive
+db,88,132632,4938,725,40,52,0.9230769230769231,1.0,https://revealmobile.com/privacy/,True,Privacy Policy | Reveal Mobile
+db,89,177705,3532,741,8,36,0.8888888888888888,1.0,https://rrd.com/privacy-policy,True,"US Privacy Policy, Data Use, Security, and Compliance | RRD"
+db,90,276979,8301,1112,28,68,0.7205882352941176,0.8676470588235294,https://salesintel.io/privacy-policy/,True,Privacy Policy - SalesIntel
+db,91,110844,9885,1014,69,98,0.7448979591836735,0.9285714285714286,https://www.blisspointmedia.com/privacy,True,"Privacy | Bliss Point - Santa Monica, CA"
+db,92,287390,1822,626,18,41,0.04878048780487805,0.04878048780487805,https://www.choreograph.com/website-policy/,True,website privacy policy | choreograph
+db,93,201946,6046,751,21,62,0.8387096774193549,0.9193548387096774,https://www.cuebiq.com/privacypolicy/,True,Privacy Policy - Cuebiq
+db,94,1496401,7748,1812,50,68,0.8382352941176471,0.9852941176470589,https://www.focus-usa.com/privacy-policy/,True,Focus USA Privacy Policy
+db,95,63132,3344,384,0,35,0.8857142857142857,0.9142857142857143,https://www.fourleafdata.com/privacy-policy,True,Privacy Policy – FourLeaf
+db,96,88399,3492,623,3,45,0.6222222222222222,0.8,https://www.marinusanalytics.com/privacy-notice-for-california-residents,True,Privacy Notice for California Residents — Marinus Analytics
+db,97,246725,9254,1589,6,77,0.5584415584415584,0.8961038961038961,https://xmode.io/privacy-policy.html,True,Privacy Policy - X-Mode
+db,98,52671,5023,389,1,70,0.8428571428571429,0.9571428571428572,http://www.checksecrets.com/privacy,True,Checksecrets
+db,99,189872,6335,830,20,79,0.7721518987341772,0.9873417721518988,http://www.madisonlogic.com/privacy/,True,Privacy Policy | Madison Logic
+db,100,200264,3454,645,15,73,0.8493150684931506,0.9452054794520548,http://www.mrss.com/privacy-policy/,True,Privacy Policy – M+R
+db,101,85121,5049,414,2,59,0.8305084745762712,0.9322033898305084,http://www.peoplesearcher.com/privacy,True,Peoplesearcher
+db,102,180188,5611,1231,22,48,0.9583333333333334,1.0,http://www.sterlingstrategies.co/privacy-policy,True,Privacy Policy | Sterling Data Company
+db,103,50820,4344,508,11,89,0.8651685393258427,1.0,http://appsci.io/privacy-policy,True,Privacy Policy | App Science®
+db,104,33666,1985,340,1,76,0.9473684210526315,1.0,http://famousbirthdays.com/privacy/,True,Privacy Policy | Famous Birthdays
+db,105,72586,3112,514,4,45,0.8222222222222222,0.9333333333333333,http://intentgine.com/privacy-policy/,True,Intentgine Privacy Policy – Intentgine
+db,106,360556,3112,730,7,53,0.6226415094339622,0.75,http://intentmacro.com/privacy-policy,True,Privacy Policy | IntentMacro
+db,107,1665125,6153,2436,8,192,0.6302083333333334,0.6458333333333334,https://blis.com/privacy-centre/,True,Privacy Centre | Blis
+db,108,228348,4812,1246,1,55,0.6181818181818182,0.7272727272727273,https://buildertrend.com/company/privacy-policy/,True,Privacy Policy - Buildertrend
+db,109,205173,6267,1132,49,67,0.6268656716417911,0.8656716417910447,https://deepsync.com/privacy-policy/,True,Privacy Policy | Deep Sync
+db,110,603401,3989,687,2,55,0.7818181818181819,1.0,https://donorbase.com/privacy-policy/,True,Privacy Policy - Data Axle Nonprofit
+db,111,204997,6163,986,2,36,0.7222222222222222,0.9166666666666666,https://homedata.com/privacy-policy,True,Privacy Policy – HomeData
+db,112,96927,3077,854,4,36,0.8055555555555556,0.9444444444444444,https://listservicedirect.com/privacy-policy/,True,Privacy Policy - Business Digital Marketing - Data Card
+db,113,140345,4126,342,23,63,1.0,1.0,https://logiq.com/privacy-policy/,True,Privacy Policy
+db,114,191474,10999,806,36,89,0.7191011235955056,1.0,https://sharelocalmedia.com/privacy-policy,True,Privacy Policy
+db,115,750227,4535,1223,2,41,0.8048780487804879,1.0,https://www.data-axle.com/privacy-policy/,True,Privacy Policy - Data Axle
+db,116,265224,5242,1682,12,40,0.825,1.0,https://www.demandbase.com/privacy,True,Privacy Notice | Demandbase
+db,117,188375,3436,477,16,26,0.9615384615384616,1.0,https://www.hivestack.com/privacy-policy/,True,Privacy Policy | Hivestack
+db,118,257390,5926,3587,7,63,0.9047619047619048,0.9682539682539683,https://www.keyopinionleaders.com/privacy,True,KOLs & Influencers Privacy Policy
+db,119,293383,11389,1665,10,81,0.9135802469135802,1.0,https://www.roq.ad/privacy-policy-roqad/,True,Privacy Policy - Roqad
+db,120,416096,6648,1728,23,94,0.0,0.0,https://www.t-mobile.com/privacy-center/our-practices/privacy-policy,True,T-Mobile Privacy Policy Notice | T-Mobile Privacy Center
+db,121,125876,1750,690,27,32,0.8125,1.0,https://www.tunnldata.com/ccpa-request-form,True,California Privacy Rights Act (CPRA) Notice | Tunnl
+db,122,332581,8132,1200,65,156,0.7884615384615384,0.8397435897435898,http://www.billtrust.com/privacy-policy/,True,Billtrust Privacy Policy: Protecting your data | Billtrust
+db,123,94409,4900,758,4,68,0.7941176470588235,0.8823529411764706,http://www.esiteanalytics.com/privacy-policy/,True,"eSite | Privacy Policy - Predictive Analytics | Charleston, SC"
+db,124,49691,2939,210,7,45,1.0,1.0,http://www.mrginc.com/privacy-policy,True,Privacy Policy -
+db,125,35967,3989,297,29,46,0.6086956521739131,1.0,http://www.peekyou.com/privacy,True,PeekYou LLC | Privacy Policy
+db,126,124055,4372,785,3,71,0.4788732394366197,0.8732394366197183,http://preferredcommunications.com/privacy-policy/,True,Privacy Policy – Preferred Communications
+db,127,9842,607,122,8,18,0.9444444444444444,1.0,https://marketforcecorp.com/privacy-policy/,True,Privacy Policy | Privacy Policy  | MarketForce
+db,128,122022,7554,900,9,99,0.9393939393939394,1.0,https://pickmedicare.com/privacy-policy/,True,Privacy Policy – Pick Medicare
+db,129,1134772,12045,2780,33,132,0.6818181818181818,0.7803030303030303,https://www.dnb.com/ca-en/utility-pages/privacy-policy.html,True,Dun & Bradstreet Privacy Notice
+db,130,535010,5263,2653,138,42,0.9047619047619048,0.9047619047619048,https://www.iqvia.com/about-us/privacy/ccpa/do-not-sell,True,Your Privacy Choices - IQVIA
+db,131,90176,4241,878,28,47,0.7446808510638298,0.9574468085106383,https://www.iwave.com/privacy-policy/,True,Privacy Policy | iWave
+db,132,219270,9327,833,29,150,0.68,1.0,http://warmly.ai/p/privacy-policy,True,Warmly's Privacy Policy
+db,133,166761,12362,1103,14,100,0.65,0.83,http://www.autoweb.com/privacy-policy.html,True,Privacy Policy
+db,134,111768,4927,761,30,51,0.7254901960784313,1.0,http://www.bridg.com/privacy-policy,True,Bridg - fuel your media network!
+db,135,264295,1565,1008,23,46,1.0,1.0,https://firstdirectmarketing.com/privacy-policy/,True,Privacy Policy - First Direct
+db,136,14229,693,147,0,28,1.0,1.0,https://www.listmatch.co/privacy,True,ListMatch | Privacy Policy
+db,137,113839,1961,668,51,68,0.0,0.0,https://pipl.com/resources/privacy-documents/my-information-privacy,True,My Information and Privacy - Pipl
+db,138,303562,6997,1039,7,118,0.9067796610169492,1.0,https://www.digdevdirect.com/privacy-policy/,True,Privacy Policy | DigDev Direct
+db,139,102203,5534,687,53,85,0.9058823529411765,1.0,https://www.n-focus.com/~nfci/index.php/privacy-policy/#Header,True,Privacy Policy - NFocus
+db,140,195890,4823,643,23,57,0.6842105263157895,1.0,http://www.adrearubin.com/privacy-policy-california/,True,Privacy Policy for California Residents - Adrea Rubin Marketing
+db,141,67474,3104,445,17,59,0.7966101694915254,1.0,http://www.allwebleads.com/privacy#digital-advertising,True,Privacy Policy - AWL
+db,142,160947,2717,532,7,51,0.7843137254901961,1.0,http://www.veraset.com/verasetnew/ccpa-privacy-policy,True,CCPA Privacy Policy | Veraset
+db,143,200423,4579,992,40,75,0.96,1.0,http://fifty.io/us/privacy-policy,True,Fifty Privacy Policy
+db,144,235171,6073,957,13,103,0.7766990291262136,1.0,https://dstillery.com/privacy-policy/,True,Privacy Policy | Dstillery
+db,145,502867,37879,4779,75,70,0.7142857142857143,1.0,https://legal.loopme.com/privacy-center,True,LoopMe Legal Center
+db,146,142565,6064,1008,6,72,0.75,0.9861111111111112,https://webbula.com/privacy-policy/,True,Privacy Notice - Information on What Data We Collect and Use | Webbula
+db,147,50893,2354,217,3,48,0.6666666666666666,1.0,https://www.hybridtheory.com/website-privacy-policy/,True,Hybrid Theory | Webite Privacy Policy |
+db,148,126306,9818,1071,19,111,0.5765765765765766,1.0,https://www.mediamath.com/privacy-policy/,True,"Privacy Policy - Built for this moment, and the next."
+db,149,180239,4442,753,31,78,0.8205128205128205,1.0,https://www.sentilink.com/privacy,True,Privacy Policy
+db,150,189331,4230,641,4,74,0.8918918918918919,0.9864864864864865,http://www.resonate.com/privacy-policy/#ccpa,True,Resonate | Privacy Policy
+db,151,204107,6963,900,29,89,0.8202247191011236,1.0,http://www.Wiland.com/privacy-choices#how-to-submit-privacy-choices,True,Privacy Choices - Wiland
+db,152,153148,11299,1006,32,139,0.935251798561151,1.0,http://pulsepoint.com/legal/platform-privacy-policy,True,PulsePoint Platform Privacy Policy
+db,153,213960,4863,875,0,68,0.7647058823529411,1.0,https://inmarket.com/privacy/,True,Privacy - Location Based Advertising By InMarket
+db,154,273264,6494,922,16,85,0.8588235294117647,0.9411764705882353,https://mediawallah.com/privacy-policy/,True,Privacy Policy | MediaWallah
+db,155,169270,5558,622,47,51,0.7450980392156863,1.0,https://samba.tv/users/privacy-policy,True,Privacy Policy
+db,156,150505,7298,772,7,75,0.9333333333333333,1.0,https://www.growbots.com/privacy/,True,Privacy - Growbots
+db,157,146655,4672,769,17,82,0.6585365853658537,0.9634146341463414,https://www.mobilewalla.com/business-services-privacy-policy,True,Business Services Privacy Policy | Legal Information | Mobilewalla
+db,158,1350784,3879,1164,33,68,0.9411764705882353,1.0,https://www.cognism.com/en/privacy-policy,True,Privacy Policy | Cognism
+db,159,148209,2317,509,10,54,0.8888888888888888,1.0,https://www.onaudience.com/internet-advertising-privacy-policy,True,Internet Advertising Privacy Policy | OnAudience.com
+db,160,217773,6610,1309,11,90,0.7222222222222222,0.9111111111111111,https://www.statsocial.com/privacy-policy,True,Privacy Policy - StatSocial
+db,161,35190,2278,289,14,47,0.7872340425531915,1.0,http://www.catalyzeai.com/privacy-policy,True,Privacy Policy
+db,162,1306016,2802,1205,16,46,1.0,1.0,http://www.grayhairsoftware.com/privacy-policy/,True,Privacy Policy - GrayHair Software
+db,163,95965,3463,804,20,51,0.8823529411764706,0.9411764705882353,http://www.mediaocean.com/privacy-policy,True,Privacy policy | Mediaocean
+db,164,86206,5030,416,2,86,0.872093023255814,0.9651162790697675,http://www.privaterecords.net/privacy,True,Privaterecords
+db,165,116770,1811,235,2,46,0.9130434782608695,1.0,http://openpeoplesearch.com/Privacy,True,Privacy | Open People Search
+db,166,79213,6138,893,2,110,0.6727272727272727,0.926605504587156,https://aslmarketing.com/privacy-policy/,True,Privacy Policy | ASL Marketing
+db,167,83248,4343,655,37,61,0.7704918032786885,0.9016393442622951,https://atlanticfox.com/privacy-policy/,True,"Atlantic Fox Technologies, Inc. Privacy Notice - Atlantic Fox Technolo"
+db,168,327908,5456,655,25,73,0.7808219178082192,0.9863013698630136,https://cre.moodysanalytics.com/privacy/,True,Moody's Analytics CRE | Privacy Policy
+db,169,99450,5105,495,5,67,0.9253731343283582,1.0,https://newsedge.com/privacy_policy/,True,Privacy Policy – Moody's Analytics NewsEdge™
+db,170,205831,8136,2107,104,77,0.8831168831168831,1.0,http://socialcatfish.com/faq/privacy/#ca-nv-privacy,True,FAQs - Frequently Asked Questions | People Search - SocialCatfish.com
+db,171,102883,4930,604,35,85,0.8117647058823529,0.9058823529411765,https://wodwo.co/privacy-policy/,True,Wodwo | Privacy Policy
+db,172,109901,3858,659,28,68,0.8676470588235294,1.0,https://www.lighthouselist.com/privacy-policy,True,Privacy Policy | Lighthouse List
+db,173,172907,3626,1324,12,57,0.8596491228070176,0.9473684210526315,http://www.businesswatchnetwork.com/privacy-policy#ccpa,True,Privacy Policy | BusinessWatch Network
+db,174,95431,1876,519,19,37,0.7027027027027027,1.0,http://www.cowen.com/kyber-data-science-disclosures/kyber-privacy-supplement/,True,Kyber Privacy Supplement | TD Cowen
+db,175,303221,5571,563,3,87,0.8505747126436781,1.0,http://www.HealthWiseData.com/privacy,True,Privacy — HealthWise Data
+db,176,57596,2434,529,29,58,0.8103448275862069,1.0,https://www.adadapted.com/resources/adadapted-privacy-policy,True,AdAdapted New Website
+db,177,150018,7379,1152,53,106,0.8773584905660378,1.0,https://www.findem.ai/privacy-policy,True,Privacy Policy
+db,178,110808,3382,760,70,77,0.974025974025974,0.974025974025974,http://blackbaud.com/company/privacy-policy/north-america,True,North American Privacy Policy | Blackbaud
+db,179,190486,2119,658,26,53,0.8301886792452831,0.9811320754716981,https://alescodata.com/privacy-policy/,True,Privacy Policy - Alesco Data
+db,180,1233801,5060,1165,0,133,0.7443609022556391,0.8721804511278195,https://app.hireez.com/policies/generalpolicy,True,General Privacy Policy - hireEZ
+db,181,136135,7939,1000,17,206,0.9223300970873787,0.9611650485436893,https://www.zoominfo.com/about-zoominfo/privacy-policy,True,Privacy Policy
+db,182,128325,6923,1658,32,165,0.7212121212121212,0.7757575757575758,http://www.oracle.com/legal/privacy/advertising-privacy-policy.html#adchoices,True,Oracle Advertising Privacy Policy | Oracle
+db,183,591581,2362,1450,30,25,1.0,1.0,https://www.acxiom.com/data-privacy-ethics/california-consumer-privacy-act/,True,Acxiom California Consumer Privacy Act
+db,184,247490,3061,701,16,85,0.8705882352941177,1.0,https://www.comscore.com/About/Privacy-Policy,True,"Privacy Policy - Comscore, Inc."
+db,185,138201,4480,798,24,59,0.9322033898305084,1.0,https://www.usdatacorporation.com/privacy-policy/,True,Privacy Policy | US Data Corporation Business & Consumer Lists
+db,186,328364,8461,1815,9,160,0.8375,1.0,http://www.therecruitbot.com/privacy/,True,Privacy - RecruitBot
+db,187,140012,3332,1310,17,32,0.78125,1.0,https://www.experian.com/privacy/,True,Privacy Policy at Experian.com
+db,188,101845,8486,533,69,129,0.875968992248062,1.0,https://www.maxmind.com/en/privacy-policy#california-notice-of-collection,True,Privacy Policy  | MaxMind
+db,189,177501,6044,1672,10,66,0.9696969696969697,1.0,https://www.melissa.com/privacy#consumer-privacy-rights,True,Privacy Policy  | Melissa
+db,190,154910,6059,777,15,126,0.746031746031746,0.9920634920634921,https://www.outbrain.com/privacy,True,Privacy Center (English) - Privacy
+db,191,178889,2772,572,6,61,0.9180327868852459,1.0,https://usmarketinggrp.com/privacy-policy/,True,Privacy Policy – US MARKETING GROUP
+db,192,317513,7119,1441,20,89,0.6629213483146067,1.0,https://www.acbj.com/privacy,True,ACBJ - Privacy Policy and Cookie Statement
+db,193,68093,5529,537,16,64,0.6875,1.0,https://www.nativo.com/interest-based-ads,True,Interest Based Ad Privacy Policy — Nativo Native Platform
+db,194,240403,3750,1269,126,87,0.5632183908045977,0.9310344827586207,https://www.propertyradar.com/privacy-policy,True,Privacy Policy
+db,195,172609,8241,1282,38,137,0.781021897810219,1.0,https://www.sovrn.com/privacy-policy/privacy-policy/,True,"Privacy Policy - Sovrn, Inc."
+db,196,440828,8320,1681,26,148,0.7432432432432432,1.0,https://www.uplead.com/privacy/,True,UpLead Privacy Policy | UpLead
+db,197,176058,6802,1195,1,109,0.8256880733944955,1.0,http://www.peoplefinders.com/about/privacy,True,Privacy Policy - PeopleFinders
+db,198,184193,5388,1418,26,59,0.7966101694915254,1.0,https://simiocloud.com/simiocloud-products-services-privacy-policy/,True,SimioCloud Products & Services Privacy Policy | SimioCloud
+db,199,451038,10381,3856,55,102,0.9019607843137255,0.9509803921568627,https://www.audiencerate.com/full-data-privacy-compliance/,True,Full Data Privacy Compliance - Audiencerate
+db,200,235965,4073,801,22,71,0.9859154929577465,0.9859154929577465,https://www.netwisedata.com/privacy-policy/,True,Privacy Policy - NetWise
+db,201,97705,4520,572,30,104,0.9807692307692307,1.0,https://www.realitydebtsolutions.com/privacy-policy/,True,Privacy Policy – Reality Debt Solutions
+db,202,104792,3478,582,6,72,0.7361111111111112,1.0,http://www.datonics.com/technology-privacy-policy,True,Technology Privacy Policy — Datonics
+db,203,77962,1867,464,5,28,0.9285714285714286,1.0,http://www.decisionlinks.com/california-privacy-rights,True,California Privacy Rights — DecisionLinks
+db,204,49014,3887,589,4,58,0.5,0.9310344827586207,http://www.greatlakeslists.com/privacy-policy,True,Privacy Policy | Great Lakes List Management
+db,205,225303,3861,849,7,67,0.8805970149253731,0.9850746268656716,http://www.hellofyllo.com/privacy-policy/,True,Privacy Policy | Fyllo Compliance Cloud™
+db,206,76195,2468,438,1,79,0.5822784810126582,1.0,http://www.malvernmedia.com/privacy-policy,True,Privacy Policy — Malvern Media
+db,207,97553,5996,700,12,106,0.8113207547169812,1.0,http://www.openx.com/privacy-center/ad-exchange-privacy-policy/#section-5,True,OpenX Ad Exchange Privacy Policy | OpenX
+db,208,72941,1714,371,27,30,0.9666666666666667,1.0,http://gostrata.com/privacy-policy-ca,True,Privacy Policy (CA) - Strata Company
+db,209,571833,5405,565,30,55,0.8363636363636363,1.0,http://Luc.id/privacy-policy,True,Privacy Policy - Lucid
+db,210,376743,7174,1712,20,157,0.5668789808917197,0.8789808917197452,http://salutarydata.com/privacy-policy/#privacy-1,True,Privacy Policy - Salutary Data
+db,211,56096,3472,398,1,57,0.8771929824561403,1.0,https://datadelivers.com/privacy-policy/,True,Privacy Policy - Maximize the value of each customer relationship.
+db,212,156424,4847,1573,1,84,0.5833333333333334,0.8452380952380952,https://intalytics.com/privacy-policy/,True,Privacy Policy | Intalytics
+db,213,88625,7956,664,14,124,0.4596774193548387,0.9516129032258065,https://outlogic.io/privacy-policy/,True,Outlogic Privacy Policy - Outlogic
+db,214,268042,967,551,1,29,0.9310344827586207,1.0,https://www.achcoop.com/privacy-policy,True,"Privacy Policy | ACH, Address Clearing House"
+db,215,366955,5145,949,52,50,0.88,1.0,https://www.emailindustries.com/legal,True,Legal — Email Industries™
+db,216,289199,1667,1116,14,16,0.9375,1.0,https://www.rhetorik.com/data-privacy-gdpr/,True,Leading the way with Data Privacy and GDPR Compliance | Rhetorik
+db,217,120625,2241,469,12,60,0.8,0.8833333333333333,http://www.heartbeat.ai/policy-ccpa,True,Heartbeat AI - Search 11M+ Healthcare & Medical Professionals
+db,218,221226,6410,1012,37,107,0.8691588785046729,0.9252336448598131,http://WWW.MULTIMEDIALISTS.COM/privacy-policy,True,Privacy Policy | Multimedia Lists
+db,219,190594,4123,864,27,67,0.6417910447761194,0.7164179104477612,https://contentgine.com/privacy-policy/,True,Privacy Policy - CONTENTgine
+db,220,381330,6964,567,26,100,0.5,0.85,https://id5.io/platform-privacy-policy/,True,Platform Privacy Policy :: ID5
+db,221,233751,8113,1219,1,129,0.5736434108527132,0.7596899224806202,http://snov.io/privacy-policy.html,True,Política de privacidad | Snov.io
+db,222,274583,3842,1242,28,52,0.8076923076923077,0.9615384615384616,https://sg360.com/privacy-policy/,True,Privacy Policy - SG360°
+db,223,482929,4698,1161,41,56,0.8035714285714286,0.8392857142857143,https://ventiveiq.com/privacy-policy-2/,True,Privacy Policy - VentiveIQ
+db,224,113037,3235,558,1,49,0.9591836734693877,0.9795918367346939,https://www.redidata.com/privacy-policy/,True,"Privacy Policy, Privacy Statement | RediData.com"
+db,225,203356,3628,782,18,55,0.9636363636363636,1.0,http://www.lightcast.io/privacy-policy,True,Privacy Policy | Lightcast
+db,226,1193734,5726,716,15,112,0.9017857142857143,0.9642857142857143,https://www.costar.com/about/privacy-notice,True,Global Privacy Notice | Costar North America
+db,227,1147925,15032,3058,49,230,0.8130434782608695,0.8217391304347826,https://www.dnb.com/utility-pages/privacy-policy.html/duns-number.html,True,Dun & Bradstreet Privacy Notice
+db,228,148978,4737,957,18,68,0.9852941176470589,1.0,https://www.enformion.com/privacy-policy/,True,Privacy Policy - Enformion
+db,229,222895,7672,823,27,120,0.6,0.8833333333333333,https://www.idology.com/privacy-policy/,True,Privacy Policy | IDology
+db,230,182132,3798,865,13,79,0.8481012658227848,0.8987341772151899,https://www.placeiq.com/privacy/,True,Privacy | PlaceIQ
+ws,1,360565,3454,1297,23,48,0.8541666666666666,0.9791666666666666,http://bestbuy.com/site/privacy-policy/state-privacy-rights/pcmcat204400050063.c?id=pcmcat204400050063,True,State Privacy Rights - Best Buy
+ws,2,1060100,8309,1772,28,116,0.8448275862068966,0.9396551724137931,http://costco.com/privacy-policy.html#cppa,True,Your Privacy Rights  | Costco
+ws,3,359980,5784,1304,32,67,0.6268656716417911,0.7761194029850746,https://about.att.com/csr/home/privacy/full_privacy_policy.html#choice,True,KOHL'S PRIVACY POLICY - YOUR PRIVACY RIGHTS | Kohl's
+ws,4,239946,10345,2423,32,138,0.5434782608695652,0.6014492753623188,https://docs.github.com/site-policy/privacy-policies/github-privacy-statement,False,AT&T Privacy Policy
+ws,5,246333,8761,1124,58,140,0.5071428571428571,0.6618705035971223,https://policies.google.com/privacy?hl=en&fg=1,True,GitHub Privacy Statement - GitHub Docs
+ws,6,307960,9666,1188,110,99,0.37373737373737376,1.0,https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=home-------------------------------------,True,Privacy Policy – Privacy & Terms – Google
+ws,7,292291,3255,1531,49,39,0.8717948717948718,1.0,https://twitter.com/privacy,True,Medium Privacy Policy | by Medium | Medium Policy
+ws,8,240473,4805,2012,45,39,0.48717948717948717,0.7948717948717948,https://www.businessinsider.com/privacy-policy,False,X Privacy Policy
+ws,9,192200,9332,914,16,125,0.688,1.0,https://www.forbes.com/fdc/privacy.html,False,Legal - Privacy Policy — Insider Inc.
+ws,10,843206,14161,1305,21,95,0.7684210526315789,0.9789473684210527,https://www.linkedin.com/legal/california-privacy-disclosure?trk=homepage-basic_footer-california-privacy-rights-act,True,Forbes.com Privacy Statement
+ws,11,332339,2315,1293,9,24,0.0,0.0,https://www.linkedin.com/legal/copyright-policy?trk=homepage-basic_footer-copyright-policy,True,Cookie Notice | The Independent
+ws,12,57713,2033,382,21,40,0.4,0.95,https://www.mayoclinic.org/about-this-site/privacy-policy,False,California Privacy Disclosure | LinkedIn
+ws,13,47297,958,255,6,1,1.0,1.0,https://www.nytimes.com/privacy/privacy-policy,False,Copyright Policy
+ws,14,584431,4994,2813,36,56,0.7321428571428571,1.0,https://www.usnews.com/features/info/privacy/state-notice,False,Privacy policy - About This Site - Mayo Clinic
+ws,15,165466,8433,1093,2,114,0.6842105263157895,1.0,https://www.xfinity.com/privacy/policy/staterights#california,False,The New York Times Company Privacy Policy  – Help
+ws,16,178369,7124,1218,24,63,0.6190476190476191,0.9365079365079365,http://target.com/c/target-privacy-policy/-/N-4sr7p,True,U.S. State Privacy Notice
+ws,17,250422,5085,909,19,43,0.7674418604651163,1.0,http://theguardian.com/help/privacy-policy,False,Individual States Rights - Xfinity by Comcast
+ws,18,327002,7460,1936,23,68,0.8676470588235294,0.9558823529411765,http://adp.com/privacy.aspx,False,Target Privacy Policy : Target
+ws,19,368567,7237,1555,41,62,0.8870967741935484,1.0,http://cargurus.com/Cars/privacyPolicy.html,False,Privacy policy | Privacy | The Guardian
+ws,20,252976,14393,2024,1,95,0.9263157894736842,1.0,http://chewy.com/app/content/privacy#cms-privacy__cookies,False,ADP Privacy
+ws,21,255933,5670,1098,35,78,0.9102564102564102,1.0,http://express.co.uk/privacy-notice,True,Privacy Policy - CarGurus
+ws,22,1628982,8798,3120,17,89,0.8314606741573034,1.0,http://nba.com/caprivacy,False,
+ws,23,256712,12002,1514,89,196,0.8928571428571429,0.9948979591836735,http://wikihow.com/wikiHow:Privacy-Policy,False,Privacy Policy | Express.co.uk
+ws,24,391371,2778,1159,2,38,0.6842105263157895,1.0,https://explore.zoom.us/en/privacy/,False,California Consumer Privacy Statement | NBA.com
+ws,25,274583,8565,898,16,87,0.8275862068965517,1.0,https://privacy.groupon.com/policies?name=privacy-policy#8-your-choices,False,wikiHow:Privacy Policy - wikiHow
+ws,26,426827,22208,2545,42,35,0.6,1.0,https://stackoverflow.com/legal/privacy-policy,False,"Advertise on Youporn, Terms Of Service, Privacy Policy 18 U.S.C. 2257"
+ws,27,68426,7501,590,66,124,0.47580645161290325,1.0,https://www.buzzfeed.com/about/privacy,False,
+ws,28,479547,8841,1461,23,70,0.7428571428571429,1.0,https://www.creditkarma.com/about/privacy,False,Privacy | Zoom
+ws,29,581905,3933,450,20,37,0.5405405405405406,1.0,https://www.huffpost.com/static/privacy-policy,False,Groupon US Privacy Center
+ws,30,137378,8815,965,9,72,0.6944444444444444,1.0,https://www.legacy.com/privacy-policy/,False,Privacy Policy - Stack Overflow
+ws,31,300683,7365,694,44,86,0.9069767441860465,1.0,https://www.politico.com/privacy-policy,False,BuzzFeed - Privacy Policy
+ws,32,830476,12644,2541,29,86,0.7441860465116279,1.0,https://www.tmz.com/privacy,False,Global Privacy Statement | Intuit
+ws,33,304351,8170,1156,21,111,0.8288288288288288,1.0,http://biblegateway.com/legal/california/,False,HuffPost | Privacy Policy and Cookie Policy
+ws,34,332028,8554,1311,37,121,0.9338842975206612,1.0,http://experian.com/privacy/us-consumer-data-privacy-policy,False,Privacy Policy - Los Angeles Times
+ws,35,329631,5632,799,17,68,0.9264705882352942,1.0,http://nerdwallet.com/blog/nerdwallet-california-privacy-policy/?trk=nw_gf_5.0,False,Privacy Policy - Legacy.com
+ws,36,249405,12520,920,54,66,0.9090909090909091,1.0,http://ziprecruiter.com/privacy,False,Privacy Policy - POLITICO
+ws,37,356969,8676,878,10,81,0.8518518518518519,1.0,https://www.autotrader.com/legal/privacy-statement,False,Privacy Policy
+ws,38,150002,3982,1178,18,42,0.4523809523809524,0.6904761904761905,https://www.fidelity.com/privacy-policy,False,BibleGateway.com: A searchable online Bible in over 150 versions and 5
+ws,39,101893,5598,1590,3,59,0.9491525423728814,0.9491525423728814,https://www.nfl.com/legal/privacy/,False,Privacy Policy at Experian.com
+ws,40,504626,4740,2839,13,28,0.75,0.9285714285714286,http://autoevolution.com/static/privacy.html#ccpa,False,NerdWallet California Privacy Policy - NerdWallet
+ws,41,193938,19764,2243,76,146,0.5,0.6643835616438356,http://boostmobile.com/content/boost/us/en/support/legal/privacy-policy,False,Global Privacy Policy | ZipRecruiter
+ws,42,265779,6969,1176,19,45,0.9111111111111111,0.9777777777777777,http://chick-fil-a.com/legal/privacy/california-privacy-policy,False,Privacy Statement - Autotrader
+ws,43,287737,7371,1349,22,78,0.8717948717948718,1.0,http://dailywire.com/privacy,False,Privacy Policy | Fidelity Investments
+ws,44,364297,9330,1270,11,58,0.5689655172413793,0.9827586206896551,http://food52.com/p/privacy,False,Privacy Policy | Fox Business
+ws,45,218426,7343,1322,31,73,0.7534246575342466,0.9726027397260274,http://humblebundle.com/privacy,False,PRIVACY POLICY
+ws,46,657964,9044,3546,19,67,0.8208955223880597,1.0,http://ifixit.com/Info/Privacy,False,Privacy Policy - NFL.com
+ws,47,40326,3210,378,14,26,1.0,1.0,http://iheart.com/privacy/,False,Privacy Policy - autoevolution
+ws,48,212261,4692,1320,24,54,0.7592592592592593,0.9629629629629629,http://investing.com/about-us/privacy-policy,False,Full Privacy Policy Details | Boost Mobile
+ws,49,253225,3028,722,23,18,0.6111111111111112,0.9444444444444444,http://leafly.com/info/privacy-policy,False,California Privacy Policy | Chick-fil-A
+ws,50,242785,9480,1010,6,77,0.7662337662337663,0.935064935064935,http://lg.com/us/privacy,True,Privacy Policy | The Daily Wire
+ws,51,215899,5875,764,5,60,0.7833333333333333,1.0,http://livejasmin.com/en/privacy-policy,False,Privacy Policy - Food52
+ws,52,191619,5255,1352,21,34,0.47058823529411764,0.9705882352941176,http://medallia.com/privacy-policy,False,Privacy Policy
+ws,53,214643,7889,1275,43,40,0.875,0.975,http://mercari.com/us/help_center/topics/trust/policies/mercari-privacy-policy/,False,Privacy Policy - iFixit
+ws,54,443607,5324,1548,7,45,0.6444444444444445,1.0,http://midwayusa.com/help/midwayusa-privacy-notice,False,♫ Z100 | New York's #1 Hit Music & Elvis Duran
+ws,55,221434,6966,1653,33,49,0.673469387755102,0.9795918367346939,http://myfitnesspal.com/privacy-policy#interest-based-advertising,False,Privacy Policy - Investing.com
+ws,56,200535,5715,892,14,63,0.5714285714285714,0.9365079365079365,http://mysynchrony.com/s/legal/privacy-policy.html,False,Privacy Policy | Leafly
+ws,57,612863,6416,900,55,71,0.7464788732394366,0.8873239436619719,http://netgear.com/about/privacy-policy/,False,LG Electronics Privacy Center
+ws,58,991266,9176,4363,68,80,0.825,1.0,http://nissanusa.com/privacy.html#categories-information-collect-disclose,False,Privacy Policy | LiveJasmin
+ws,59,158068,5997,1101,40,68,0.75,0.9264705882352942,http://officedepot.com/l/help/privacy-statement?cm_sp=FooterLink-_-privacystatement,False,Privacy Policy | Medallia | Customer Experience and Employee Experienc
+ws,60,128589,3871,697,25,37,0.918918918918919,0.9459459459459459,http://okta.com/privacy-policy/,False,Privacy Policy - Mercari: Your Marketplace
+ws,61,261100,5308,2111,36,28,0.8214285714285714,0.9642857142857143,http://olivegarden.com/privacy-policy,False,Help - MidwayUSA Privacy Notice
+ws,62,670496,13635,1095,79,55,0.7636363636363637,1.0,http://oracle.com/legal/privacy/advertising-privacy-policy.html#adchoices,False,Privacy Policy | MyFitnessPal
+ws,63,261022,6140,1190,44,42,0.7857142857142857,1.0,http://partycity.com/privacy.html,False,Online Privacy Policy
+ws,64,349685,7772,2002,20,27,0.5185185185185185,1.0,http://pgatour.com/company/privacy-policy,False,NETGEAR Privacy Policy | NETGEAR
+ws,65,652189,14503,3404,56,47,0.7446808510638298,0.9574468085106383,http://poshmark.com/privacy,False,Nissan Legal Privacy Policy | Nissan USA
+ws,66,1625965,8249,3700,18,58,0.9482758620689655,0.9827586206896551,http://potterybarn.com/about-us/privacy-policy.html#financial-incentives,False,Office Depot's Privacy Statement| Office Depot
+ws,67,915823,11329,1438,32,65,0.49230769230769234,1.0,http://shein.com/Privacy-Security-Policy-a-282.html#ps-t3,False,Okta Privacy Policy
+ws,68,692072,8240,1634,92,60,0.9333333333333333,0.9333333333333333,http://smartasset.com/privacy,False,Privacy Policy | Olive Garden Italian Restaurant
+ws,69,130034,7090,1665,32,49,0.8163265306122449,1.0,http://staples.com/hc?id=dbb94c10-973c-478b-a078-00e58f66ba32,False,Oracle Advertising Privacy Policy | Oracle
+ws,70,468340,8507,2660,8,28,0.8928571428571429,1.0,http://subaru.com/support/privacy-policies.html#additional-disclosures-for-ca-residents,False,Privacy Policy | Party City
+ws,71,378928,7245,1409,14,81,0.8765432098765432,1.0,http://syf.com/s/legal/privacy-policy.html,False,Privacy Policy - PGA TOUR
+ws,72,344568,6400,2514,59,39,0.8717948717948718,0.9487179487179487,http://teacherspayteachers.com/Privacy-Policy,False,Privacy Policy - Poshmark
+ws,73,499143,8006,3479,235,41,0.926829268292683,1.0,http://thumbtack.com/privacy/#supplemental-privacy-notice-for-california-residents,False,Privacy Policy | Pottery Barn
+ws,74,2604761,6402,1720,17,28,0.9285714285714286,0.9285714285714286,http://truecar.com/privacy/,False,SHEIN PRIVACY POLICY | SHEIN USA
+ws,75,227175,12552,1588,1,52,0.8846153846153846,0.9807692307692307,http://uhaul.com/Legal/PrivacyPolicy/,False,Privacy Policy | SmartAsset.com
+ws,76,4008460,8454,1601,34,42,0.8333333333333334,0.9761904761904762,http://usbank.com/about-us-bank/privacy/security.html#tracking,False,Staples Help Center
+ws,77,392209,11344,2962,49,28,0.8571428571428571,0.9285714285714286,http://blogspot.com/go/privacy,False,Privacy Policies | Subaru of America
+ws,78,261022,6140,1190,44,56,0.875,1.0,http://homedepot.com/privacy/privacy-and-security-statement,False,Online Privacy Policy
+ws,79,1086309,10608,1773,38,103,0.5436893203883495,0.7184466019417476,http://hulu.com/ca-privacy-rights,False,TPT Privacy Center
+ws,80,211719,7646,1301,21,20,0.75,0.95,https://help.netflix.com/legal/privacy#cookies,False,Privacy Policy - Thumbtack
+ws,81,671999,3785,858,1,45,0.6666666666666666,1.0,https://imgur.com/ccpa,False,Terms of Privacy - TrueCar
+ws,82,311933,4091,977,28,29,0.7241379310344828,1.0,https://www.washingtonpost.com/privacy-policy/,False,Privacy Notice | U-Haul
+ws,83,205218,4404,1271,59,31,0.8709677419354839,1.0,http://about.urbandictionary.com/privacy,False,Privacy and security | U.S. Bank
+ws,84,307000,9666,1188,110,171,0.4619883040935672,1.0,http://redfin.com/about/privacy-policy,False,Privacy Policy – Privacy & Terms – Google
+ws,85,339171,10690,2192,91,222,0.9594594594594594,1.0,https://kb.newegg.com/Article/Index/12/3?id=1166,False,Privacy and Security Statement – The Home Depot
+ws,86,311184,4294,975,19,72,0.5416666666666666,0.8333333333333334,https://www.apartments.com/about/privacy-notice,False,Your US State Privacy Rights | Hulu
+ws,87,224797,9531,699,29,107,0.8504672897196262,1.0,http://biblegateway.com/legal/privacy/,False,Back Button
+ws,88,40366,1204,256,2,16,0.75,1.0,http://experian.com/privacy/index.html,False,CCPA - Imgur
+ws,89,450713,5196,1225,1,81,0.8271604938271605,0.9753086419753086,http://ziprecruiter.com/california-privacy-notice,False,Washington Post Privacy policy - The Washington Post
+ws,90,26433,2451,265,22,97,0.9381443298969072,1.0,http://alltrails.com/privacy,False,
+ws,91,349269,8404,690,57,183,0.7486338797814208,1.0,http://amctheatres.com/privacy-policy,False,Privacy Policy | Redfin
+ws,92,280934,19900,2159,35,115,0.8956521739130435,1.0,http://basspro.com/shop/en/privacy-policy-summary-bass-pro-shops,False,Privacy Policy Newegg - Newegg Knowledge Base
+ws,93,106410,6253,972,26,88,0.8977272727272727,1.0,http://campingworld.com/helpcenter-ourpolicies/privacyPolicy.html#CAinfo,False,Privacy Notice | Apartments.com
+ws,94,152624,4180,1095,6,49,0.9183673469387755,1.0,http://change.org/policies/privacy,True,Bible Gateway: Privacy Notice (U.S. and Canada)
+ws,95,138813,3124,1291,17,14,0.9285714285714286,1.0,http://chick-fil-a.com/legal/privacy/chick-fil-a-privacy-policy,False,Privacy Policy at Experian.com
+ws,96,80821,7927,805,32,93,0.6881720430107527,0.8817204301075269,http://discogs.com/help/doc/privacy-policy,False,California Privacy Notice | ZipRecruiter
+ws,97,596945,4672,758,17,95,0.4421052631578947,0.7263157894736842,http://donaldjtrump.com/privacy-policy,False,AllTrails Privacy Center
+ws,98,617733,5206,1131,18,67,0.6417910447761194,0.8208955223880597,http://downdetector.com/privacy.html,False,Privacy Policy
+ws,99,412731,9918,2133,43,88,0.8636363636363636,0.9772727272727273,http://everydayhealth.com/privacyterms/#everyday-health-terms-of-use,False,Privacy Policy Summary | Bass Pro Shops
+ws,100,503617,9909,2150,43,103,0.7669902912621359,0.8543689320388349,http://gettyimages.com/company/privacy-policy,False,Privacy Policy Summary | Cabela's
+ws,101,497392,11737,3060,38,80,0.95,1.0,http://guitarcenter.com/pages/privacy-rights-policy,False,Privacy Policy | Camping World
+ws,102,374626,7702,817,37,102,0.5196078431372549,0.8921568627450981,http://kayak.com/privacy#ccpa,False,Privacy Policy · Change.org
+ws,103,301201,8869,1009,43,118,0.6694915254237288,0.9661016949152542,http://kickstarter.com/privacy?ref=global-footer#privacy-information-for-california-residents,False,Chick-fil-A Privacy Policy | Chick-fil-A
+ws,104,255484,9659,1372,22,103,0.6213592233009708,0.7572815533980582,http://military.com/about-us/privacy-policy,False,Privacy Policy – Discogs
+ws,105,54990,4379,368,1,33,0.36363636363636365,1.0,http://mirror.co.uk/privacy-notice/,True,Privacy Policy | Donald J. Trump
+ws,106,87150,4526,730,18,100,0.72,0.81,http://dailymail.co.uk/privacy,True,"Privacy statement |
+
+ Downdetector"
+ws,107,482301,20427,2023,53,80,0.8375,1.0,http://npr.org/about-npr/179878450/privacy-policy,True,Privacy Policy
+ws,108,123039,5048,695,6,52,0.9423076923076923,1.0,https://go.microsoft.com/fwlink/?LinkId=521839,False,Getty Images
+ws,109,1201752,12423,3244,32,83,0.9518072289156626,1.0,https://www.foxnews.com/privacy-policy,False,Privacy Rights | Guitar Center
+ws,110,404179,11280,1329,24,131,0.5114503816793893,0.9007633587786259,https://www.linkedin.com/legal/privacy-policy?trk=homepage-basic_footer-privacy-policy,True,KAYAK - Privacy Policy
+ws,111,572596,3744,373,9,40,0.9,1.0,https://www.pornhub.com/information/privacy,False,Kickstarter Privacy Center
+ws,112,195093,3891,1068,20,54,0.9629629629629629,1.0,https://www.quora.com/about/privacy,False,Privacy Policy | Military.com
+ws,113,536600,11915,1478,88,123,0.5934959349593496,0.983739837398374,https://www.realtor.com/privacy-policy/#your-choices-and-rights,False,Privacy Statement - Daily Mirror
+ws,114,431995,11228,1367,101,193,0.8652849740932642,1.0,http://weather.com/en-US/twc/privacy-policy,True,Privacy & Cookies Policy (the 'Policy') | Daily Mail Online
+ws,115,273768,8299,1328,13,130,0.6307692307692307,0.8846153846153846,http://genius.com/static/privacy_policy,False,NPR Online Privacy Policy : NPR
+ws,116,777891,87661,4758,124,492,0.725609756097561,1.0,http://ign.com/privacy-policy,True,Microsoft Privacy Statement – Microsoft privacy
+ws,117,360633,9506,1503,37,120,0.7166666666666667,0.9583333333333334,http://investopedia.com/legal-4768893#editorial-policy,False,Privacy Policy | Fox News
+ws,118,170408,6619,1282,111,168,0.6904761904761905,1.0,http://kbb.com/company/privacy-policy/,False,LinkedIn Privacy Policy
+ws,119,364749,6087,2031,15,64,0.875,1.0,http://redtube.com/information#privacy,True,Privacy Policy | Pornhub.com
+ws,120,292129,3840,471,0,79,0.9873417721518988,1.0,http://shopify.com/legal/privacy,False,Privacy Policy - Quora
+ws,121,278954,6325,1067,27,120,0.9083333333333333,1.0,https://privacy.groupon.com/policies?name=privacy-policy#8-your-choices,False,View Our Privacy Policy - realtor.com®
+ws,122,1528133,23686,2238,39,179,0.7541899441340782,1.0,https://store.steampowered.com/privacy_agreement/?snr=1_4_4__global-responsive-menu,False,Privacy Policy - The Weather Channel | weather.com
+ws,123,1609971,32461,3899,32,183,0.9836065573770492,1.0,https://www.mlb.com/official-information/privacy-policy,True,"Terms and Conditions - Rules & Regulations, Privacy Policy, Warranties"
+ws,124,153344,7454,583,12,108,0.9814814814814815,1.0,http://speedtest.net/about/privacy,False,Genius | Song Lyrics & Knowledge
+ws,125,572868,3426,1078,27,57,0.8947368421052632,1.0,https://privacy.patreon.com/,False,Privacy Policy - IGN
+ws,126,437254,17774,1872,57,73,0.958904109589041,1.0,https://www.dictionary.com/e/terms/,True,Policy Pages
+ws,127,639264,7584,1643,24,131,0.8854961832061069,1.0,https://www.nfl.com/legal/privacy/#InterestBasedAdvertising,False,Kelley Blue Book Privacy Statement - Kelley Blue Book
+ws,128,2234433,22240,2597,83,69,0.6521739130434783,1.0,https://www.thedailybeast.com/company/privacy-policy,False,"Free Porn Videos & Sex Movies - Porno, XXX, Porn Tube and Pussy Porn"
+ws,129,232046,4677,1646,30,42,0.9285714285714286,0.9761904761904762,http://beenverified.com/faq/privacy/,False,Shopify Privacy Policy
+ws,130,1974826,13653,2209,26,117,1.0,1.0,http://carvana.com/privacy-policy,False,Online Privacy and Security Policy
+ws,131,581354,3932,449,20,46,0.6086956521739131,1.0,http://drudgereport.com/privacy/california/,False,Groupon US Privacy Center
+ws,132,53508,4444,440,0,74,0.9864864864864865,1.0,http://reverb.com/page/privacy,False,Privacy Policy Agreement
+ws,133,719086,9286,1927,43,112,0.9642857142857143,1.0,http://seattletimes.com/notices/privacy.html#california,False,MLB Privacy Policy | MLB.com
+ws,134,96682,4620,1009,26,118,0.7457627118644068,0.9830508474576272,http://shein.com/Privacy-Center-a-1045.html,False,Ookla Privacy Policy
+ws,135,603300,6493,593,46,105,0.8571428571428571,1.0,http://sling.com/offer-details/disclaimers/privacy-policy?footer=true,False,Patreon Privacy Center
+ws,136,346251,11189,758,4,65,0.7384615384615385,0.8923076923076924,http://summitracing.com/privacy,False,Terms of Service & Privacy Policy - Dictionary.com
+ws,137,602012,8950,3129,19,50,0.82,1.0,http://wallethub.com/terms/privacy/,False,Privacy Policy - NFL.com
+ws,138,373920,7532,1168,32,78,0.7564102564102564,0.8846153846153846,http://wunderground.com/company/privacy-policy,False,Privacy Policy - The Daily Beast
+ws,139,72283,5429,646,34,67,0.9104477611940298,1.0,https://about.seekingalpha.com/privacy?source=footer,False,Privacy | BeenVerified
+ws,140,548967,15837,1838,13,144,0.6458333333333334,0.9513888888888888,https://fortune.com/california-privacy-policy/#notice,False,Privacy Policy | Carvana.com
+ws,141,12610,954,110,5,21,0.38095238095238093,0.9523809523809523,https://legal.hubspot.com/privacy-policy?hubs_content=www.hubspot.com/&hubs_content-cta=Privacy%20Policy,False,CCPA Request
+ws,142,398548,10593,1229,24,84,0.8095238095238095,1.0,https://myanimelist.net/about/privacy_policy,False,Privacy Policy | Reverb
+ws,143,319002,7367,2763,26,45,0.9555555555555556,1.0,https://nymag.com/newyork/privacy.html,False,User Notices of The Seattle Times Company: Privacy Statement
+ws,144,2501808,1803,1414,17,16,1.0,1.0,https://pagesix.com/privacy-notice/,False,Privacy Center | SHEIN USA
+ws,145,231431,4821,725,23,47,0.8936170212765957,1.0,https://privacy.streamable.com,False,Privacy Policy | Sling TV
+ws,146,168091,3256,1265,2,19,0.8421052631578947,1.0,https://www.eventbrite.com/support/articles/en_US/Troubleshooting/supplemental-privacy-notice-for-california-residents?lg=en_US,False,"SR-03733
+				 · Help Center"
+ws,147,155497,6376,878,14,46,0.9347826086956522,1.0,http://oreillyauto.com/privacy#consumer-data-notice,False,Privacy Policy
+ws,148,348767,8979,976,18,72,0.875,1.0,http://papajohns.com/privacy-policy.html,False,Privacy Policy | Weather Underground
+ws,149,358167,3257,943,11,29,0.6896551724137931,1.0,http://patch.com/privacy,False,Privacy — About Seeking Alpha
+ws,150,192355,6618,1104,1,26,0.5769230769230769,1.0,http://pof.com/privacypolicy/,False,CALIFORNIA NOTICE AT COLLECTION  AND PRIVACY NOTICE | Fortune
+ws,151,118167,378,247,1,10,0.0,0.0,http://redbubble.com/privacy,False,What is Your Pricing Policy? | Bass Pro Shops
+ws,152,263310,8095,1365,69,55,0.8909090909090909,1.0,http://rei.com/help/us-state-privacy-notice,False,HubSpot Privacy Policy
+ws,153,207602,7983,844,50,40,0.6,1.0,http://telegraph.co.uk/about-us/privacy-and-cookie-policy/,True,Privacy Policy - MyAnimeList.net
+ws,154,953698,12863,1376,45,75,0.92,1.0,http://zendesk.com/company/agreements-and-terms/privacy-notice/,True,New York Media Privacy Notice
+ws,155,372899,4438,1008,19,38,0.7368421052631579,1.0,https://corporate.britannica.com/privacy-policy,False,PRIVACY NOTICE | Page Six
+ws,156,40539,3155,393,1,20,0.85,1.0,https://media.geico.com/legal/privacy_policy.htm?_gl=1*7f4a5s*_ga*MTcyNjUyMDAzOC4xNjcxMTEyNDcw*_ga_91H6GD762W*MTY3MTExMjQ3MC4xLjEuMTY3MTExMzI4Ny41Ni4wLjA.,False,Streamable Privacy Policy
+ws,157,169658,4254,417,13,1,0.0,0.0,https://privacy.ticketmaster.com/privacy-policy,False,Supplemental Privacy Notice for specific states | Eventbrite Help Cent
+ws,158,923473,13376,8527,34,46,0.9782608695652174,1.0,https://shop.advanceautoparts.com/o/privacypolicy,False,Privacy Policy | O'Reilly Auto Parts
+ws,159,84037,5511,758,39,34,0.7352941176470589,0.7941176470588235,https://time.com/privacy/generic_privacy_new.html,True,Privacy Policy | Papa John’s Pizza
+ws,160,159813,6417,681,39,31,0.9354838709677419,1.0,,,Patch Privacy Policy
+ws,161,308473,6898,1484,35,40,0.8,1.0,,,Privacy policy - Plenty of Fish Free Dating - POF.com
+ws,162,117503,4498,1074,28,34,0.6764705882352942,1.0,,,Privacy | Redbubble
+ws,163,1039213,5300,4300,13,31,0.7741935483870968,0.8387096774193549,,,US State Privacy Notice | REI Co-op
+ws,164,522362,17983,2101,17,81,0.8518518518518519,1.0,,,Privacy and Cookie Policy
+ws,165,416164,7020,1621,35,46,0.13043478260869565,0.6739130434782609,,,Privacy Policy
+ws,166,232736,10262,1092,21,54,0.9444444444444444,1.0,,,"Privacy Policy - Encyclopædia Britannica, Inc. Corporate Site"
+ws,167,173428,3963,386,25,29,0.896551724137931,1.0,,,GEICO Privacy Policy
+ws,168,251100,5516,1084,18,53,0.8867924528301887,0.9056603773584906,,,Privacy Policy
+ws,169,470365,6300,1440,39,52,0.6346153846153846,1.0,,,"Advance Auto Parts: Car, Engine, Batteries, Brakes, Replacement, Perfo"
+ws,170,149557,4839,452,30,38,0.2631578947368421,1.0,,,TIME Privacy Policy for the US
