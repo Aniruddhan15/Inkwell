@@ -1,0 +1,259 @@
+OPP-115 root: C:\Users\HAMSHI~1\AppData\Local\Temp\opp115_7tlayt5b\OPP-115
+
+======================================================================
+0. DATASET OVERVIEW
+======================================================================
+Policies with text:       115
+Total segments:           3,792
+Empty segments:           0
+Raw practices (3 annot.): 23,194
+Annotators per policy:    {3: 115}
+Policies without annotations: 0
+
+======================================================================
+1. LABELS (majority vote from annotations/)
+======================================================================
+                                      raw_practices  segments_any_annotator  segments_majority  segments_all_three  majority_pct_of_segments
+category                                                                                                                                    
+First Party Collection/Use                     8935                    1522               1209                 936                      31.9
+Other                                          3548                    1763               1058                 550                      27.9
+Third Party Sharing/Collection                 5221                    1186                945                 687                      24.9
+User Choice/Control                            1789                     632                358                 211                       9.4
+International and Specific Audiences            939                     353                301                 249                       7.9
+Data Security                                  1008                     375                210                 146                       5.5
+User Access, Edit and Deletion                  746                     231                149                 110                       3.9
+Policy Change                                   548                     192                119                  89                       3.1
+Data Retention                                  370                     156                 78                  37                       2.1
+Do Not Track                                     90                      32                 31                  24                       0.8
+
+Segments with no majority category: 63 of 3792
+Categories per segment (majority): {0: 63, 1: 3063, 2: 612, 3: 46, 4: 7, 5: 1}
+Single-annotator-only (segment, category) pairs dropped by majority vote: 1,984
+Rare categories (<50 majority segments): ['Do Not Track']
+
+Most frequent category pairs:
+                         a                              b     n
+First Party Collection/Use Third Party Sharing/Collection 256.0
+                     Other Third Party Sharing/Collection  69.0
+First Party Collection/Use                          Other  60.0
+                     Other            User Choice/Control  52.0
+                     Other User Access, Edit and Deletion  31.0
+
+Fleiss' kappa per category (binary: did the annotator use this category on the segment):
+First Party Collection/Use              0.764
+Other                                   0.489
+Third Party Sharing/Collection          0.765
+User Choice/Control                     0.608
+International and Specific Audiences    0.875
+Data Security                           0.665
+User Access, Edit and Deletion          0.742
+Policy Change                           0.733
+Data Retention                          0.550
+Do Not Track                            0.907
+Mean kappa: 0.710
+
+======================================================================
+2. TEXT (sanitized_policies/)
+======================================================================
+Segments per policy: {'count': 115.0, 'mean': 33.0, 'std': 20.6, 'min': 1.0, '25%': 17.5, '50%': 32.0, '75%': 43.0, 'max': 104.0}
+Words per segment:   {'count': 3792.0, 'mean': 70.3, 'std': 47.6, 'min': 1.0, '25%': 37.0, '50%': 59.5, '75%': 94.0, 'max': 372.0}
+Segments over 128 tokens (APPROX = words x 1.3; pass --tokenizer for real counts): 849 (22.4%)
+Segments over 256 tokens (APPROX = words x 1.3; pass --tokenizer for real counts): 88 (2.3%)
+Segments over 512 tokens (APPROX = words x 1.3; pass --tokenizer for real counts): 0 (0.0%)
+
+Segment length (words) by category:
+                                       count  mean   50%    max
+First Party Collection/Use            1209.0  80.9  69.0  372.0
+Other                                 1058.0  60.1  50.0  372.0
+Third Party Sharing/Collection         945.0  84.3  72.0  321.0
+User Choice/Control                    358.0  72.1  60.0  252.0
+International and Specific Audiences   301.0  79.2  72.0  289.0
+Data Security                          210.0  79.0  72.5  314.0
+User Access, Edit and Deletion         149.0  76.1  66.0  372.0
+Policy Change                          119.0  72.0  68.0  207.0
+Data Retention                          78.0  86.3  75.5  372.0
+Do Not Track                            31.0  63.8  60.0  133.0
+
+Distinctive words per category (log-odds vs. all other segments):
+  First Party Collection/Use: pixels, geolocation, customize, occupation, uniquely, trends, save, diagnose
+  Other: explains, endorsement, endorse, holdings, december, adopted, dealings, ny
+  Third Party Sharing/Collection: merger, bankruptcy, belief, subpoenas, regulation, court, cooperate, assets
+  User Choice/Control: altogether, unsubscribe, toolbar, stop, adjust, menu, instructions, disabling
+  International and Specific Audiences: parental, thirteen, shine, coppa, resident, residents, child, guardian
+  Data Security: ssl, layer, guaranteed, secured, socket, safeguards, sockets, encrypt
+  User Access, Edit and Deletion: inaccurate, incomplete, corrections, inaccuracies, correct, navigating, deleting, correction
+  Policy Change: modifications, continued, periodically, revised, revise, significant, changed, revisions
+  Data Retention: indefinitely, retain, disputes, long, deletion, period, retention, resolve
+  Do Not Track: signals, dnt, currently, standards, track, browsers, respond, tracking
+
+======================================================================
+3. SPANS / ATTRIBUTES (consolidation/)
+======================================================================
+threshold  practices  merged_C_practices  singlet_practices  attribute_entries  entries_with_span  span_exact_match_pct  span_mismatch  mismatch_flagged_errant
+      0.5      17291                4900              12391             116011              61744                  98.1           1178                       42
+     0.75      19720                2771              16949             133136              70792                  98.2           1305                       63
+      1.0      21510                1340              20170             142850              75583                  97.9           1586                       70
+
+Using threshold 0.75 for the rest of this section.
+Attribute entries: 133,136; with a usable span: 70,792 (53.2%)
+
+Raw annotations: 77,906 span entries, 1,821 do not match the segment text at their offsets (2.3%); 70 of those are in errant_span_indexes/.
+
+Span length (words) by attribute, exact-match spans only:
+                             count  mean   50%    max
+attribute                                            
+Personal Information Type  13150.0   5.5   3.0  122.0
+Purpose                    11182.0  12.6   9.0  232.0
+Does/Does Not               6800.0  11.1   3.0  192.0
+Action First-Party          6058.0  10.1   5.0  139.0
+Action Third Party          4611.0   7.0   3.0  212.0
+Choice Type                 4482.0  13.8   9.0  238.0
+Third Party Entity          4416.0   9.6   4.0  212.0
+Collection Mode             4162.0  10.1   5.0  141.0
+Identifiability             3924.0   4.7   3.0  122.0
+Choice Scope                3237.0   8.6   5.0  126.0
+Other Type                  1807.0  37.5  28.0  212.0
+User Type                   1761.0   4.6   2.0   91.0
+Access Type                  671.0  12.2   5.0  126.0
+Security Measure             649.0  30.8  23.0  177.0
+Access Scope                 577.0   9.9   5.0  113.0
+Notification Type            418.0  11.9   9.0   68.0
+Audience Type                405.0  40.4  25.0  289.0
+Change Type                  387.0  14.6   9.0   81.0
+Retention Period             297.0  15.0  11.0  123.0
+Retention Purpose            250.0  12.5   9.0   81.0
+User Choice                  194.0  20.9  17.5   85.0
+Do Not Track policy           49.0  26.8  18.0  122.0
+
+% of entries that carry a span, by attribute (rest are optional / not-selected):
+attribute
+User Type                     11.5
+Choice Scope                  22.2
+Identifiability               30.4
+Choice Type                   31.2
+User Choice                   45.1
+Collection Mode               51.5
+Does/Does Not                 52.9
+Action First-Party            75.1
+Retention Purpose             75.1
+Purpose                       77.6
+Access Scope                  84.5
+Change Type                   87.3
+Personal Information Type     88.3
+Retention Period              89.3
+Third Party Entity            91.9
+Notification Type             92.7
+Action Third Party            96.1
+Access Type                   98.7
+Other Type                    99.9
+Audience Type                100.0
+Do Not Track policy          100.0
+Security Measure             100.0
+
+Most frequent attribute values (excluding 'not-selected'):
+
+  Personal Information Type  (not-selected: 0)
+    value
+    Unspecified                      3877
+    Generic personal information     2561
+    Cookies and tracking elements    1720
+    Contact                          1623
+    User online activities           1179
+    IP address and device IDs         721
+    Other                             551
+    Computer information              538
+
+  Third Party Entity  (not-selected: 0)
+    value
+    Unnamed third party                2241
+    Named third party                  1397
+    Unspecified                         521
+    Other part of company/affiliate     377
+    Public                              129
+    Other                                76
+    Other users                          76
+
+  Purpose  (not-selected: 0)
+    value
+    Unspecified                       4144
+    Basic service/feature             1797
+    Advertising                       1588
+    Analytics/Research                1471
+    Marketing                         1400
+    Additional service/feature        1388
+    Personalization/Customization      752
+    Service Operation and Security     538
+
+  Retention Period  (not-selected: 0)
+    value
+    Unspecified      160
+    Limited           92
+    Stated Period     38
+    Indefinitely      26
+    Other             21
+
+  Security Measure  (not-selected: 0)
+    value
+    Generic                       257
+    Data access limitation         98
+    Other                          98
+    Secure data transfer           88
+    Privacy/Security program       47
+    Secure data storage            38
+    Secure user authentication     32
+    Privacy review/audit           25
+
+  Choice Type  (not-selected: 3052)
+    value
+    Unspecified                        7307
+    Opt-in                             1455
+    Dont use service/feature            682
+    Browser/device privacy controls     513
+    Opt-out link                        476
+    Opt-out via contacting company      390
+    Other                               319
+    Third-party privacy controls        237
+
+======================================================================
+4. POLICIES AND METADATA (documentation/)
+======================================================================
+Websites joined to a policy via Policy UID = filename prefix: 115 of 115
+
+Policies per top-level DMOZ sector (a policy can have several):
+sectors
+Regional          65
+Society           35
+Business          30
+Arts              29
+World             28
+Science           27
+Health            25
+Recreation        25
+Kids and Teens    24
+Computers         21
+Reference         21
+Sports            21
+Home              21
+News              20
+Games             17
+
+Policies by collection year and last-updated year:
+      collected_year  last_updated_year
+2003               0                  1
+2004               0                  1
+2007               0                  1
+2009               0                  5
+2010               0                  1
+2011               0                  3
+2012               0                  4
+2013               0                 11
+2014               0                 30
+2015             115                 26
+
+Note: the corpus was collected in 2015, so policies predate GDPR/CCPA-era wording.
+
+======================================================================
+DONE
+======================================================================
+Tables:  EDA\output\tables
+Figures: EDA\output\figures

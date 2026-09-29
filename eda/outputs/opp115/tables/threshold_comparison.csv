@@ -1,0 +1,4 @@
+threshold,practices,merged_C_practices,singlet_practices,attribute_entries,entries_with_span,span_exact_match_pct,span_mismatch,mismatch_flagged_errant
+0.5,17291,4900,12391,116011,61744,98.1,1178,42
+0.75,19720,2771,16949,133136,70792,98.2,1305,63
+1.0,21510,1340,20170,142850,75583,97.9,1586,70
