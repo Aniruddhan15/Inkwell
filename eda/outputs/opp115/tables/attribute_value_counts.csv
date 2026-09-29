@@ -1,0 +1,61 @@
+attribute,value,count
+Personal Information Type,Unspecified,3877
+Personal Information Type,Generic personal information,2561
+Personal Information Type,Cookies and tracking elements,1720
+Personal Information Type,Contact,1623
+Personal Information Type,User online activities,1179
+Personal Information Type,IP address and device IDs,721
+Personal Information Type,Other,551
+Personal Information Type,Computer information,538
+Personal Information Type,Location,481
+Personal Information Type,Financial,456
+Personal Information Type,Demographic,422
+Personal Information Type,Health,248
+Personal Information Type,User profile,206
+Personal Information Type,Personal identifier,121
+Personal Information Type,User Profile,107
+Personal Information Type,Survey data,87
+Personal Information Type,Social media data,82
+Third Party Entity,Unnamed third party,2241
+Third Party Entity,Named third party,1397
+Third Party Entity,Unspecified,521
+Third Party Entity,Other part of company/affiliate,377
+Third Party Entity,Public,129
+Third Party Entity,Other,76
+Third Party Entity,Other users,76
+Purpose,Unspecified,4144
+Purpose,Basic service/feature,1797
+Purpose,Advertising,1588
+Purpose,Analytics/Research,1471
+Purpose,Marketing,1400
+Purpose,Additional service/feature,1388
+Purpose,Personalization/Customization,752
+Purpose,Service Operation and Security,538
+Purpose,Legal requirement,475
+Purpose,Other,468
+Purpose,Service operation and security,388
+Purpose,Merger/Acquisition,234
+Retention Period,Unspecified,160
+Retention Period,Limited,92
+Retention Period,Stated Period,38
+Retention Period,Indefinitely,26
+Retention Period,Other,21
+Security Measure,Generic,257
+Security Measure,Data access limitation,98
+Security Measure,Other,98
+Security Measure,Secure data transfer,88
+Security Measure,Privacy/Security program,47
+Security Measure,Secure data storage,38
+Security Measure,Secure user authentication,32
+Security Measure,Privacy review/audit,25
+Security Measure,Unspecified,10
+Security Measure,Privacy training,6
+Choice Type,Unspecified,7307
+Choice Type,Opt-in,1455
+Choice Type,Dont use service/feature,682
+Choice Type,Browser/device privacy controls,513
+Choice Type,Opt-out link,476
+Choice Type,Opt-out via contacting company,390
+Choice Type,Other,319
+Choice Type,Third-party privacy controls,237
+Choice Type,First-party privacy controls,212
